@@ -1,7 +1,7 @@
 # AWA48 Homebrew tap
 
 ```sh
-brew install --cask awa48/tap/awacut
+brew install awa48/tap/awacut
 ```
 
 ## AwaCut
@@ -16,6 +16,6 @@ brew install --cask awa48/tap/awacut
 
 Website: https://awacut.com/ · Help: https://awacut.com/en/help/ · For AI agents: https://awacut.com/llms.txt
 
-Windows: `winget install AYAMIM.AwaCut` · Linux: AppImage from https://awacut.com/en/background-remover-for-linux/
+Windows: `winget install awacut` · Linux: AppImage from https://awacut.com/en/background-remover-for-linux/
 
 Published by AYA MIM S.R.L., Romania.
