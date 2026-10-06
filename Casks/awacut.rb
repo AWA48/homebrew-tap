@@ -1,6 +1,6 @@
 cask "awacut" do
-  version "1.0.4"
-  sha256 "e4a66c65fcf63bee071d5fc70164be7d3054d30adbf509e2cfc95039d53510dd"
+  version "1.0.5"
+  sha256 "daa26340b0ef1909796ed86dfe9e77a7cf0b49e27d39efc309cf852d2d0d1647"
 
   url "https://dl.awacut.com/releases/#{version}/AwaCut_#{version}_aarch64.dmg"
   name "AwaCut"
